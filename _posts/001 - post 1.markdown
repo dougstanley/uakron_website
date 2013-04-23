@@ -1,0 +1,7 @@
+---
+categories: CIS_2440_388
+date: 2013/03/23 17:50:00
+title: Initial Post
+---
+Initial blog post to test things out. I plan on posting various items
+like notes from class, as blog posts here. Keep an eye out for more to come.
