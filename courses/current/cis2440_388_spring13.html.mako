@@ -10,6 +10,8 @@ Homeworks
 
  * [Homework #3](hw/hw-3.html)
 
+ * [Homework #4](hw/hw-4.html)
+
 Syllabus
 --------
 
